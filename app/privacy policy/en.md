@@ -1,6 +1,6 @@
 Privacy Policy
 
-RoomPrep (the “App”) is developed and provided by KuanStudio.  
+RoomPrep (the “App”) is developed and provided by KuanJarStudio.  
 We value your privacy. This policy explains how we handle user data:
 
 1. Data Collection and Use
