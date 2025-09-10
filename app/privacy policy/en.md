@@ -1,22 +1,25 @@
 Privacy Policy
 
-RoomPrep (the “App”) is developed and provided by KuanJarStudio.  
-We value your privacy. This policy explains how we handle user data:
+This application RoomPrep (hereinafter referred to as “the App”) is developed and provided by KuanJar Studio. The App values user privacy and hereby explains the following policy:
 
-1. Data Collection and Use
-The App does not collect personal information directly.  
-Advertisements (via Google AdMob) may collect device-related information to provide personalized ads.  
-In-app purchases (Google Play Billing) are processed entirely by Google Play. The App does not store or access your payment details.
+Data Collection and Use
+The App does not actively collect any personal information from users.
+Advertisements displayed in the App (such as Google AdMob) may collect device-related information through their SDKs to provide more relevant advertising content.
+The in-app purchase function (Google Play Billing) is used only for transaction processing. Purchase information is handled by Google Play, and the App does not store or access your payment data.
 
-2. Third-Party Services
-The App uses the following Google services:
-- Google Play Services  
-- Google Play Billing (In-App Purchases)  
-- Google AdMob (Ads)  
-These services may collect and process data as described in their own privacy policies. See Google Privacy Policy: https://policies.google.com/privacy
+Third-Party Services
+The App uses the following services provided by Google:
 
-3. Data Security
-The App itself does not collect or store user data. All transactions and ad operations are handled securely by Google.
+Google Play Services
 
-4. Contact
-If you have questions regarding privacy, please contact us at: kya9988@yahoo.com.tw
+Google Play Billing (in-app purchases)
+
+Google AdMob (advertising)
+
+These services may collect and process user data according to their privacy policies. Please refer to Google’s Privacy Policy: https://policies.google.com/privacy
+
+Data Security
+The App does not collect or store personal data. All transactions and ad processing are handled on Google’s servers.
+
+Contact
+For any privacy-related inquiries, please contact us by email: kya9988@yahoo.com.tw
