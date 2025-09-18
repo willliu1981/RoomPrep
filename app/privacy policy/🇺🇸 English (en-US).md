@@ -1,6 +1,6 @@
 Privacy Policy
 
-This application RoomPrep (hereinafter referred to as “the App”) is developed and provided by KuanJar Studio. The App values user privacy and hereby explains the following policy:
+This application RoomPrep (hereinafter referred to as “the App”) is developed and provided by AIxGDX Studio. The App values user privacy and hereby explains the following policy:
 
 Data Collection and Use
 The App does not actively collect any personal information from users.
