@@ -1,6 +1,6 @@
 Kebijakan Privasi
 
-Aplikasi RoomPrep (selanjutnya disebut “Aplikasi”) dikembangkan dan disediakan oleh KuanJar Studio. Aplikasi ini sangat memperhatikan privasi pengguna dan menjelaskan kebijakan berikut:
+Aplikasi RoomPrep (selanjutnya disebut “Aplikasi”) dikembangkan dan disediakan oleh AIxGDX Studio. Aplikasi ini sangat memperhatikan privasi pengguna dan menjelaskan kebijakan berikut:
 
 Pengumpulan dan Penggunaan Data
 Aplikasi tidak secara aktif mengumpulkan informasi pribadi pengguna.
