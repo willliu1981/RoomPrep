@@ -1,6 +1,6 @@
 Chính Sách Quyền Riêng Tư
 
-Ứng dụng RoomPrep (sau đây gọi là “Ứng dụng”) được phát triển và cung cấp bởi KuanJar Studio. Ứng dụng này coi trọng quyền riêng tư của người dùng và giải thích các chính sách sau:
+Ứng dụng RoomPrep (sau đây gọi là “Ứng dụng”) được phát triển và cung cấp bởi AIxGDX Studio. Ứng dụng này coi trọng quyền riêng tư của người dùng và giải thích các chính sách sau:
 
 Thu thập và Sử dụng Dữ liệu
 Ứng dụng không chủ động thu thập bất kỳ thông tin cá nhân nào của người dùng.
