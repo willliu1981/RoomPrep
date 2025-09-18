@@ -1,6 +1,6 @@
 Patakaran sa Privacy
 
-Ang RoomPrep (tinatawag na “App”) ay binuo at ibinigay ng KuanJar Studio. Pinahahalagahan ng App na ito ang privacy ng mga gumagamit at ipinapaliwanag ang sumusunod na patakaran:
+Ang RoomPrep (tinatawag na “App”) ay binuo at ibinigay ng AIxGDX Studio. Pinahahalagahan ng App na ito ang privacy ng mga gumagamit at ipinapaliwanag ang sumusunod na patakaran:
 
 Pagkolekta at Paggamit ng Datos
 Ang App ay hindi aktibong nangongolekta ng personal na impormasyon ng gumagamit.
