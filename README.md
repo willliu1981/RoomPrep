@@ -19,7 +19,7 @@ RoomPrep 幫你解決這個困擾！
 
 📲 立即下載
 
-👉 Google Play 商店下載 RoomPrep
+👉 Google Play 商店下載 [RoomPrep](https://play.google.com/store/apps/details?id=idv.kuan.roomprep)
 
 [隱私權政策](https://github.com/willliu1981/RoomPrep/tree/main/app/privacy%20policy)
 
