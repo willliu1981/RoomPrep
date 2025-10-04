@@ -29,6 +29,6 @@ RoomPrep 幫你解決這個困擾！
 
 Facebook 專頁：[AIxGDX Dojo](https://www.facebook.com/aixgdx.dojo/)
 
-聯絡信箱：📩 kya9988@yahoo.com.tw
+聯絡信箱：📩 [kya9988@yahoo.com.tw](mailto:kya9988@yahoo.com.tw)  
 
 ✨ RoomPrep 讓房務工作更輕鬆，少跑一趟，就是多一份效率！
